@@ -1,6 +1,8 @@
 # Novelite
 
+
 Novelite is a Kindle-inspired online book platform built using HTML, CSS, and JavaScript.
+🔗 Live Demo: https://deepsujain-eng.github.io/Novelite/
 
 It provides an interactive reading experience where users can:
 
