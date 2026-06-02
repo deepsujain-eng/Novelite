@@ -118,6 +118,27 @@ Created by Deepshikha Jain.
 
 ---
 
+## Screenshots
+
+### Home Page
+![Home Page](home_page.png)
+
+### books page
+![books page](books_page.png)
+
+### audiobooks page
+![audiobooks page](audiobook_page.png)
+
+### podcasts page
+![podcasts page](podcasts_page.png)
+
+### suggestions page
+![suggestions page](suggestions_page.png)
+
+### checkout page
+![checkout page](checkout_page.png)
+
+
 ## 📜 License
 
 This project is for educational and learning purposes.
