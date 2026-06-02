@@ -70,6 +70,7 @@ It provides an interactive reading experience where users can:
 - JavaScript (Vanilla JS)
 - Local Storage API
 - Web Speech API
+- GitHub Pages
 
 ---
 
